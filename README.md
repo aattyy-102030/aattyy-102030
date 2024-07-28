@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?aattyy-102030=aattyy-102030" />
+  <img src="https://komarev.com/ghpvc/?username=aattyy-102030" />
 </div>
 
 

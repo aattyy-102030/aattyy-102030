@@ -2,7 +2,6 @@
 ## Profile
 
 - Incumbent : Bridge engineer
-- Goals : ML engineer
 <br>
 
 

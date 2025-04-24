@@ -1,7 +1,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## Profile
 
-- Incumbent : Bridge engineer
+- Incumbent : AI engineer
 <br>
 
 
